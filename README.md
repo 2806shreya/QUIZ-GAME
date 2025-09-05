@@ -21,4 +21,4 @@ HTML · CSS · JavaScript
 
 ## Live Demo
 You can try the quiz game directly in your browser using this link:  
-🔗 [View Live Demo](https://2806shreya.github.io/QUIZ_GAME/)
+🔗 [View Live Demo]( https://2806shreya.github.io/QUIZ-GAME/)
