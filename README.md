@@ -17,5 +17,8 @@ HTML · CSS · JavaScript
 - `style.css` – styling for the game  
 - `script.js` – game logic
 
-## Watch it Live
-[Watch it Live](https://2806shreya.github.io/QUIZ-GAME/)
+---
+
+## Live Demo
+You can try the quiz game directly in your browser using this link:  
+🔗 [View Live Demo](https://2806shreya.github.io/QUIZ_GAME/)
