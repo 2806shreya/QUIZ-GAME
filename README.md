@@ -17,5 +17,5 @@ HTML · CSS · JavaScript
 - `style.css` – styling for the game  
 - `script.js` – game logic
 
-**Live Demo**  
+## Watch it Live
 [Watch it Live](https://your-username.github.io/quiz-game/)
