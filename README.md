@@ -18,4 +18,4 @@ HTML · CSS · JavaScript
 - `script.js` – game logic
 
 ## Watch it Live
-[Watch it Live](https://your-username.github.io/quiz-game/)
+[Watch it Live](https://2806shreya.github.io/QUIZ-GAME/)
